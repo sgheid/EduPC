@@ -1,0 +1,58 @@
+# ---> Unity ###
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Mm]emoryCaptures/
+Logs/
+UserSettings/
+
+# Asset pipeline
+.assetpipeline/
+.autosave/
+
+# Crash reports
+sysinfo.txt
+
+# VSCode
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio
+*.csproj
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.booproj
+*.svd
+
+# OSX files
+.DS_Store
+._*
+
+# Windows files
+Thumbs.db
+desktop.ini
+
+# Ignore crash logs, temp files, and build files
+*.stackdump
+*.tmp
+
+# Unity specific files
+*.apk
+*.unitypackage
+
+# Plastic SCM
+.plastic/
+*.plastic*
+
+# JetBrains Rider
+.idea/
+
+# Ignore files in the root directory
+.vsconfig

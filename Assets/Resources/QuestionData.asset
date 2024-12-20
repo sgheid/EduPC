@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca757631f11e9e842a89c16fef07241a, type: 3}
+  m_Name: QuestionData
+  m_EditorClassIdentifier: 
+  questions:
+  - question: "Unit\xE0 di elaborazione centrale che rappresenta il cervello di un
+      PC"
+    answer: CPU
+  - question: Ospita tutta la circuiteria, i collegamenti e le interfacce dei vari
+      componenti interni
+    answer: Scheda madre
+  - question: Memoria volatile che immagazzina e recupera in tempi brevissimi i dati
+      di cui ha bisogno il pc per funzionare
+    answer: RAM
+  - question: "Permette l'ingresso della giusta quantit\xE0 di corrente per far funzionare
+      il PC"
+    answer: Alimentatore
+  - question: Dedicata all'elaborazione grafica
+    answer: GPU
+  - question: Struttra usata per mettere insieme tutti i componenti
+    answer: Case
+  - question: Consente la riproduzione di suoni
+    answer: Scheda audio
+  - question: Memoria di massa lenta che memorizza dati attraverso supporti magnetici
+    answer: HDD
+  - question: Memoria di massa a stato solido che memorizza dati attraverso circuiti
+      elettronici fornendo maaggiori prestazioni
+    answer: SSD
+  - question: Garantisce il ricircolo dell'aria per mantenere i componenti interni
+      ad una temperatura ottimale
+    answer: Ventola
+  - question: Dispositivo elettronico per la visualizzazione di immagini, testo e
+      video trasmessi in forma elettronica
+    answer: Monitor
+  - question: Dispositivo che permette di leggere dati registrati su un opportuno
+      supporto
+    answer: Lettore
+  - question: Dispositivo che permette di registrare dati su un opportuno supporto
+    answer: Masterizzatore
+  - question: Dispositivo di puntamento per PC
+    answer: Mouse
+  - question: Permette il collegamento ad internet
+    answer: Scheda di rete
